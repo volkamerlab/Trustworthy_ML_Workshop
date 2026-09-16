@@ -1,0 +1,2 @@
+Name_of_Analysis	Parameters	Time
+CP_regression	#Trees:100,#MinSamplesLeaf:15,#FeaturesPerSplit:14,MaxDepth:20	1630.6459459999896

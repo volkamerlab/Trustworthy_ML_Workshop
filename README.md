@@ -1,6 +1,6 @@
 # Trustworthiness for machine learning
 
-[40 $^{th}$ German Conference on Bioinformatics](https://gcb2026.de) Workshop 7:  Trustworthiness for machine learning
+[40th German Conference on Bioinformatics](https://gcb2026.de) Workshop 7:  Trustworthiness for machine learning
 
 ## Organizers 
 

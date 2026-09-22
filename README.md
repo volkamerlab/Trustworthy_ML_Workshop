@@ -37,7 +37,7 @@ Date: 2026-09-21, 12:30 - 5:00 pm
 | 2:30-3:00 | Coffee Break            |                               |
 | 3:10-3:50 | Lecture: Reliability of ML models with a focus on conformal prediction.     | Kerstin Lenhof |
 | 3:50-4:00 | Break |     |
-| 4:00-4:30 | Hands on: [Conformal Prediction]()          |    Lisa-Marie Rolli                   |
+| 4:00-4:30 | Hands on: [Conformal Prediction](https://colab.research.google.com/github/volkamerlab/Trustworthy_ML_Workshop/blob/main/notebooks/inductive_CP.ipynb)          |    Lisa-Marie Rolli                   |
 | 4:30-4:50 | Hands on: Examples and implementation guidelines focusing on own medical/biological applications or assigned papers developed by the participants   |                    |
 | 4:50-5:00 |  Brief presentation/pitch of results by groups  |         |
                      
